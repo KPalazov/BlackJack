@@ -27,12 +27,14 @@ public enum Rank
     String rankName;
     int rankValue;
 
-    Rank(String rankName, int rankValue){
+    Rank(String rankName, int rankValue)
+    {
         this.rankName = rankName;
         this.rankValue = rankValue;
     }
 
-    public String toString(){
+    public String toString()
+    {
         return rankName;
     }
 }

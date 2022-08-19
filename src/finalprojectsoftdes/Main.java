@@ -10,16 +10,17 @@ package finalprojectsoftdes;
  */
 public class Main 
 {
-    public static void main(String[] args) {
-        //Say hi to the user
+    public static void main(String[] args) 
+    {
+        //Welcome the user to the game
         System.out.println("Welcome to Blackjack");
 
-        //Create and start the Game
+        //Create and start the Game object
         Game blackjack = new Game();
         
+        //Create Dealer
         Dealer myDealer = new Dealer();
-        System.out.println("The dealer's name is: " + myDealer.getName());
         
-        
+        System.out.println("The dealer's name is: " + myDealer.getName()); 
     }
 }

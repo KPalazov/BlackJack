@@ -17,11 +17,13 @@ public enum Suit
 
     String suitName;
 
-    Suit(String suitName) {
+    Suit(String suitName) 
+    {
         this.suitName = suitName;
     }
 
-    public String toString(){
+    public String toString()
+    {
         return suitName;
     }
     
