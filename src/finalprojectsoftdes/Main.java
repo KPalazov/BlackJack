@@ -6,7 +6,7 @@ package finalprojectsoftdes;
 
 /**
  * @author ManuelMartinez 
- * @author HaloyanPalazov 
+ * @author KaloyanPalazov 
  * @author StephenPaton 
  * @author AhmadAyoub
  */
