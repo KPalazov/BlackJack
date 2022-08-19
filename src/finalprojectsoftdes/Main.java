@@ -5,7 +5,10 @@
 package finalprojectsoftdes;
 
 /**
- * @author manuelmartinez, kaloyanpalazov, stephenpaton, ahmadayoub
+ * @author ManuelMartinez 
+ * @author HaloyanPalazov 
+ * @author StephenPaton 
+ * @author AhmadAyoub
  */
 public class Main 
 {
